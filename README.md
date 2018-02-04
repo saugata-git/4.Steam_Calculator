@@ -1,6 +1,6 @@
 
 # Steam-calculator by Saugata Debnath
-  It is an windows application which is used to calculate several crucial parameters of steam at certain temparature.
+  It is an windows application which is used to calculate several crucial parameters of steam at certain temperature.
   Appliction is very useful for Mechanical Engineers.
 # Installation :
   1.Donwload the rar file and extract it.
