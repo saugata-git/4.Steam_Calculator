@@ -2,10 +2,10 @@
 # Steam-calculator 
    An Windows application which can compute different parameters of steam at a given <b>specific temperature</b> like:
    
-<b>   specific-entropy steam and water and their mixture  </b> </br>
-<b>   specific-enthalpy of saturated steam and water and their mixture</b> </br>
-<b>   specific volume </b> </br>
-<b>   saturated pressure</b> 
+<b>   1.Specific-entropy steam and water and their mixture  </b> </br>
+<b>   2.Specific-enthalpy of saturated steam and water and their mixture</b> </br>
+<b>   3.Specific volume </b> </br>
+<b>   4.Saturated pressure</b> 
    
 # Technologies Used:
    <b>C#</b></br>
