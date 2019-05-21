@@ -10,8 +10,9 @@
 # Technologies Used:
    <b>C#</b></br>
    <b>Asp.net Framework</b>.
+   
 # Users: 
-   Appliction is very useful for core engineering branches.Helpful in calulating the values of <b>steam-table.</b>
+   Appliction is very useful for core engineering branches.Helpful in calculating different values of <b>steam-table.</b>
   
 # Installation :
   1.Donwload the repository.</br>
