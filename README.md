@@ -15,7 +15,7 @@
    Appliction is very useful for core engineering branches.Helpful in calculating different values of <b>steam-table.</b>
   
 # Installation :
-  1.Donwload the repository.</br>
+  1.Donwload the repository extract .rar file </br>
   2.Click on setup file and wait until Installation.</br>
   3.After installtaion you can run the software in your windows pc.
   
