@@ -1,6 +1,6 @@
 
 # Steam-calculator 
-   An Windows application which can compute different parameters of steam at a given <b>specific temperature</b> like:
+   A Windows application which can compute different parameters of steam at a given <b>specific temperature</b> like:
    
 <b>   1.Specific-entropy steam and water and their mixture  </b> </br>
 <b>   2.Specific-enthalpy of saturated steam and water and their mixture</b> </br>
